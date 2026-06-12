@@ -19,7 +19,7 @@ distant et la haute disponibilité.
 | **Exchange Server 2019** | Messagerie d'entreprise | 🔄 En cours |
 
 ## 🧰 Environnement
-`Windows Server 2019` `VMware` `Active Directory` `DNS/DHCP` `RRAS` 
+`Windows Server 2025/2019` `VMware` `Active Directory` `DNS/DHCP` `RRAS` 
 `WDS` `NLB` `Failover Clustering` `Exchange Server`
 
 ## 👤 Auteur
